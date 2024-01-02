@@ -16,7 +16,6 @@ composer install
 
 2. Copy the .env.example file and rename it to .env. Configure the database section in the .env file with your database details:
 
-first database section
 
 ```bash
 DB_CONNECTION=mysql
